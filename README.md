@@ -19,3 +19,15 @@ Tools Used
 Project Status
 
 Learning project — more queries and analysis will be added as I continue practicing SQL.
+
+
+## Project Files
+
+- [SQL Project File](./personal%20household%20project.sql)
+- [Project Presentation](./PERSONAL%20HOUSEHOLD.pptx)
+
+## How to Use
+
+1. Read the PPT to understand the project.
+2. Open the SQL file to review the queries.
+3. Run the queries in MySQL to practice SQL.
