@@ -31,3 +31,9 @@ Learning project — more queries and analysis will be added as I continue pract
 1. Read the PPT to understand the project.
 2. Open the SQL file to review the queries.
 3. Run the queries in MySQL to practice SQL.
+
+
+Project Files
+
+- "SQL Queries" (./personal_household_project.sql)
+- "Project Presentation (PPT)" (./PERSONAL%20HOUSEHOLD.pptx)
