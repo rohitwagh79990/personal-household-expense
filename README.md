@@ -20,11 +20,9 @@ Project Status
 
 Learning project — more queries and analysis will be added as I continue practicing SQL.
 
-
 Project Files
+- [SQL Project File](https://github.com/rohitwagh79990/personal-household-expense/blob/main/personal_household_project.sql)
 
-- "SQL Project File" (./personal_household_project.sql)
-- "Project Presentation" (./PERSONAL%20HOUSEHOLD.pptx)
 
 ## How to Use
 
