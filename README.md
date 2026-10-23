@@ -1,2 +1,21 @@
-# personal-household-expense
-Personal Household Expense Analysis using Python
+Personal Household Expense Analysis using SQL
+
+About the Project
+
+This project focuses on analyzing personal household expenses using SQL queries.
+
+Objectives
+
+- Track household expenses.
+- Analyze spending patterns.
+- Identify major expense categories.
+- Practice SQL queries for data analysis.
+
+Tools Used
+
+- SQL
+- MySQL
+
+Project Status
+
+Learning project — more queries and analysis will be added as I continue practicing SQL.
